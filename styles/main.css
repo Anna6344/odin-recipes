@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+em {
+    color: darkgray;
+}
+
+ul {
+    font-size: 14px;
+}
+
+.recipe {
+    font-size: 20px;
+    text-decoration: none;
+}
